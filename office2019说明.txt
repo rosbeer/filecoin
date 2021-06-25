@@ -1,0 +1,10 @@
+﻿使用批量许可证部署 Microsoft Office 2019 for Mac：
+1. 安装 Microsoft Office 2019 for Mac 安装包
+2. 安装 Microsoft_Office_2019_VL_Serializer.pkg 包。
+
+部署提示：
+a. 必须在想要使用批量许可证进行设置的每台 Mac 上安装 VL 序列化程序
+b. 需要时，可先安装 VL 序列化程序，再下载和安装 Office 2019 应用程序
+c. 所有包均与 MDM 管理服务器（如 Intune、Jamf Pro 和 FileWave）兼容
+
+https://links.tickstep.com
